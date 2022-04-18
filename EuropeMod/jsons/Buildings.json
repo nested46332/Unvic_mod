@@ -1,10 +1,10 @@
 [
 	{
 		"name": "Sukiennice",
-		"cost": 120,
+		"cost": 12,
 		"replaces": "Market",
-		"uniqueTo": "Poland",
-		"gold": 3,
+		"uniqueTo": "Arroz",
+		"gold": 300000,
 		"culture": 1,
 		"specialistSlots": {
 			"gold": 1
