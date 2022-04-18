@@ -5,8 +5,8 @@
 		"replaces": "Lancer",
 		"uniqueTo": "Poland",
 		"movement": 5,
-		"strength": 25,
-		"cost": 185,
+		"strength": 20005,
+		"cost": 15,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"hurryCostModifier": 20,
@@ -36,7 +36,7 @@
 			"Bonus vs wounded units 33%"
 		],
 		"hurryCostModifier": 20,
-		"attackSound": "horse"
+		"attackSound": "metalhit"
 	},
 	{
 	    "name": "Chasseur",
